@@ -2,8 +2,8 @@
 
 ![logo](poto/logo.png)
 
-**Nama :Risky HariAdi** <br>
-**Nim :312010124** <br>
+**Nama :Renita Gusmida** <br>
+**Nim :312010093** <br>
 **Kelas:TI.A1.20** <br>
 **Tugas:Bahasa Pemrogramman** <br>
 
